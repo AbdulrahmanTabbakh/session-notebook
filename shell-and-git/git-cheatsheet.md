@@ -10,7 +10,7 @@
 
 `rm <file-name>`--> remove file.
 
-`rm <folder name> -rf`--> remove recursive force.
+`rm -rf <folder name>`--> remove recursive force.
 
 `code .`--> open a folder or file in VS Code.
 
