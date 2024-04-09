@@ -16,7 +16,7 @@
 
 ## Git and Branches
 
-`git switch -c<Branch name>`-->create and switch to new branch.
+`git switch -c <Branch name>`-->create and switch to new branch.
 
 `git switch -` --> Git will attempt to switch back to the previously checked out branch.
 
