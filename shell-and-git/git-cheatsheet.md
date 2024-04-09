@@ -7,3 +7,9 @@
 `ls`--> list files and directories.
 
 `cd ..`--> represents the parent directory.
+
+`rm <file-name>`--> remove file.
+
+`rm <folder name> -rf`--> remove recursive force.
+
+`code .`--> open a folder or file in VS Code.
